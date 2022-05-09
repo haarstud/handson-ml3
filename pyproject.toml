@@ -8,6 +8,7 @@ authors = ["haarcuba"]
 python = "^3.10"
 pandas = "^1.4.2"
 matplotlib = "^3.5.2"
+ipython = "^8.3.0"
 
 [tool.poetry.dev-dependencies]
 
